@@ -1,5 +1,5 @@
 #
-# Display Crypto punks on LED matrix 32x32
+# Display image files on LED matrix 64x64
 # get master image: wget https://www.larvalabs.com/public/images/cryptopunks/punks.png
 # needs rgbmatrix : https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/bindings/python
 #
